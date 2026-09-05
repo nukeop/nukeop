@@ -18,10 +18,13 @@ Built with Tauri (Rust + React).
 - [zeus](https://github.com/nukeop/zeus) - 8-bit fantasy console with its own CPU, assembly language, and ROM format (Rust). Based on brick games.
 - [react-ui-cards](https://github.com/nukeop/react-ui-cards) - React card components.
 - [openborys](https://github.com/nukeop/openborys) - An AI agent framework for Discord. Uses Bun.
-- [nuclear-radio](https://github.com/NuclearPlayer/nuclear-radio) - A radio station bot for Discord (Rust).
 - [rofi-ykman](https://github.com/nukeop/rofi-ykman) - manage YubiKey TOTP codes from rofi.
 - [fake-book](https://github.com/nukeop/fake-book) - my collection of sheet music for Bb instruments.
 - [mr-cool-nes](https://github.com/nukeop/mr-cool-nes) - an NES emulator written in Rust.
+- [NuclearPlayer/nuclear-radio](https://github.com/NuclearPlayer/nuclear-radio) - Discord bot that streams music to a voice channel (Rust)
+- [NuclearPlayer/nuclear-tritone](https://github.com/NuclearPlayer/nuclear-tritone) - Web service with extra functionalities for Nuclear. Lets users verify the streams
+
+- [llm-mafia-2](https://github.com/nukeop/llm-mafia-2) - Single- and multi-player social deduction game. A group of AIs with wacky personalities try to smoke out the human among them. Fool them and try to survive as you dupe them into eliminating each other.
 
 ### Technologies I work with
 

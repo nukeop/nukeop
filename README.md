@@ -24,6 +24,8 @@ Built with Tauri (Rust + React).
 - [NuclearPlayer/nuclear-radio](https://github.com/NuclearPlayer/nuclear-radio) - Discord bot that streams music to a voice channel (Rust)
 - [NuclearPlayer/nuclear-tritone](https://github.com/NuclearPlayer/nuclear-tritone) - Web service with extra functionalities for Nuclear. Lets users verify the streams
 
+Slopped:
+- [music-tools](https://nukeop.github.io/music-tools) [(repo)](https://github.com/nukeop/music-tools) - Tools for music practice. Chord player and triad pairs generator.
 - [llm-mafia-2](https://github.com/nukeop/llm-mafia-2) - Single- and multi-player social deduction game. A group of AIs with wacky personalities try to smoke out the human among them. Fool them and try to survive as you dupe them into eliminating each other.
 
 ### Technologies I work with
@@ -35,6 +37,7 @@ Built with Tauri (Rust + React).
 - Tauri
 - Node.js
 - Bun
+- Swift
 
 ### Contact me
 

@@ -1,5 +1,3 @@
-I like Typescript and Rust.
-
 I created [Nuclear](https://nuclearplayer.com), and I also run [warmth.dev](https://warmth.dev), where I make audio plugins.
 
 ### Nuclear
@@ -25,6 +23,7 @@ Built with Tauri (Rust + React).
 - [NuclearPlayer/nuclear-tritone](https://github.com/NuclearPlayer/nuclear-tritone) - Web service with extra functionalities for Nuclear. Lets users verify the streams
 
 Slopped:
+
 - [music-tools](https://nukeop.github.io/music-tools) [(repo)](https://github.com/nukeop/music-tools) - Tools for music practice. Chord player and triad pairs generator.
 - [llm-mafia-2](https://github.com/nukeop/llm-mafia-2) - Single- and multi-player social deduction game. A group of AIs with wacky personalities try to smoke out the human among them. Fool them and try to survive as you dupe them into eliminating each other.
 
